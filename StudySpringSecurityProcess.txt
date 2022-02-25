@@ -36,6 +36,6 @@ SpringSecurity는 기본적으로 제공되는 Filter chain들이 있다. 이는
 
 ==============================================
 특정 URL주소에 대하여 보안처리하기(인증)
-@EnabledGlobalMethodSecurity(securedEnabled=true, prePostEnabled = true) 등의 옵션을 추가하여 보안 옵션 설정 가능.
+@EnabledGlobalMethodSecurity(securedEnabled=true, prePostEnabled = true) 등의 옵션을 추가하여 보안 옵션 설정 가능..
 
 @Secured("~~")

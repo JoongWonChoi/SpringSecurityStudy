@@ -39,4 +39,5 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
                 .defaultSuccessUrl("/");//login 완료되면 기본적으로 이동할 URL주소
     }
     /*formLogin() ==> 로그인 페이지와 기타 로그인의 성공, 실패 등을 처리하기 위한 메서드*/
+
 }
